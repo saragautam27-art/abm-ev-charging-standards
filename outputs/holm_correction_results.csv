@@ -1,0 +1,9 @@
+"Test","Raw_p","Holm_p","Sig_05"
+"Waste_Overall",1.58e-05,7.9e-05,TRUE
+"Waste_LinearGrid",0.405,0.428,FALSE
+"Waste_ScaleFreeHubs",7.79e-06,4.674e-05,TRUE
+"ConsumerFriction",0.214,0.428,FALSE
+"H3_Wilcoxon_Static",0.00268,0.00804,TRUE
+"H3_Wilcoxon_Adaptive",4.28e-05,0.0001712,TRUE
+"H3_Ftest_Static",2.2e-16,1.76e-15,TRUE
+"H3_Ftest_Adaptive",2.2e-16,1.76e-15,TRUE
