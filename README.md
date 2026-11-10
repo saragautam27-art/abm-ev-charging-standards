@@ -14,4 +14,4 @@ models and want to apply them to climate and sustainable finance.
 NetLogo · R (tidyverse, data.table) · Stata · Power BI · Python (basic)
 
 ## Contact
-[LinkedIn](link) · email
+sara22gautam@fgmail.com
